@@ -1,0 +1,52 @@
+body {
+	margin:0;
+}
+header {
+	background-color: #B22222;
+	margin: 0px;
+	padding: 30px 0;
+	text-align: center;
+}
+h1 {
+	font-family: 'El Rio Lobo';
+	color: yellow;
+	margin: 0;
+	padding: 0;
+}
+h2 {font-size: 42px;}
+
+p {
+	color: white;
+	margin-top: 5px;
+}
+
+.content1 {
+	background-color: #87CEFA;
+	text-align: center;
+}
+.foto {
+	margin: 20px auto;
+}
+.content2 {
+	background: url(../../assets/images/cuzco2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: right;
+	padding-bottom: 220px;
+}
+ul {
+	list-style: none;
+	color: white;
+}
+footer {
+	font-family: 'El Rio Lobo';
+	color: #000;
+	text-align: center;
+	margin: 40px auto;
+}
+table {
+	margin: 0px auto;
+}
+td {
+	font-size: 40px;
+}
